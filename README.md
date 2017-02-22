@@ -1,6 +1,6 @@
 ![](http://rlv.zcache.com/red_aviator_high_top_sneakers-r188e6b092f2d49628fd82a538a603f6c_j4ops_512.jpg?rlvnet=1&realview=113830209392768210&max_dim=325)
 
-[LIVE DEMO](http://thenocklist.com/css3/circle/index.html
+[LIVE DEMO](http://thenocklist.com/css3/circle/index.html)
 
 1. DOWNLOAD THE [NOCKLIST SHOE CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/shoecis201)
 
