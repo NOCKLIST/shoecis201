@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/css3/circle/index.html)
 
-1. DOWNLOAD THE [NOCKLIST SHOE CONTENT INTEGRATION SYSTEM V401 ZIP](https://github.com/NOCKLIST/shoecis201)
+1. DOWNLOAD THE [NOCKLIST SHOE CONTENT INTEGRATION SYSTEM V2.01 ZIP](https://github.com/NOCKLIST/shoecis201)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
